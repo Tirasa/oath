@@ -1,7 +1,7 @@
 ## An OATH (Open Authentication) Toolkit
 
-[![Build Status](https://travis-ci.org/johnnymongiat/oath.svg?branch=master)](https://travis-ci.org/johnnymongiat/oath)
-[![Coverage Status](https://coveralls.io/repos/johnnymongiat/oath/badge.png)](https://coveralls.io/r/johnnymongiat/oath)
+[![Build Status](https://travis-ci.org/Tirasa/oathlib.svg?branch=master)](https://travis-ci.org/Tirasa/oathlib)
+[![Coverage Status](https://coveralls.io/repos/github/Tirasa/oathlib/badge.svg?branch=master)](https://coveralls.io/github/Tirasa/oathlib)
 
 A Java-based OATH toolkit providing components for building one-time password authentication systems. Supported technologies include the event/counter-based HOTP algorithm ([RFC4226](https://tools.ietf.org/html/rfc4226)) and the time-based TOTP algorithm ([RFC6238](https://tools.ietf.org/html/rfc6238)).
 
@@ -144,3 +144,7 @@ The code coverage reports will be available under target/site/cobertura director
 ## License
 
 The MIT License (MIT)
+
+#### Note
+
+This project is a fork of https://github.com/johnnymongiat/oath
